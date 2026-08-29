@@ -50,6 +50,9 @@ business insights.
 
 **[View Full PizzaHut Sales SQL Presentation](./PizzaHut%20Sales%20--SQL.pdf)**
 
+The complete 17-page presentation includes the project introduction,
+SQL analysis questions, query outputs, findings, and conclusion.
+
 ## 👨‍💻 Author
 
 **Shah Faiz**
