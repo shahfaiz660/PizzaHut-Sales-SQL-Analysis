@@ -48,7 +48,7 @@ business insights.
 
 ## 📄 Project Presentation
 
-[View PizzaHut Sales Project](./PizzaHut%20Sales%20--SQL.pdf)
+**[View Full PizzaHut Sales SQL Presentation](./PizzaHut%20Sales%20--SQL.pdf)**
 
 ## 👨‍💻 Author
 
